@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Shanhong Liu</title>
+    <link>http://localhost/</link>
+    <description>Recent content in Home on Shanhong Liu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacts</title>
+      <link>http://localhost/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/contacts/</guid>
+      <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:shanhong_liu@mymail.sutd.edu.sg&#34;&gt;shanhong_liu@mymail.sutd.edu.sg&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=zYdNVpYAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/yourusername&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/cv/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/publications/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Liu, O. S.&lt;/strong&gt;, Ng, P. C., Soh, D. W., &amp;amp; Plataniotis, K. N. (2026).&lt;br&gt;&#xA;&lt;em&gt;Yes FLoReNce, I Will Do Better Next Time! Agentic Feedback Reasoning for Humorous Meme Detection.&lt;/em&gt;&#xA;[AAAI 2026 Workshop] [Oral] The 40th Annual AAAI Conference on Artificial Intelligence Workshop on LLM-based Multi-Agent Systems&#xA;&lt;a href=&#34;https://arxiv.org/abs/2601.07232&#34;&gt;arXiv&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;framework&#34;&gt;Framework&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;FLoReNce&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost/images/florence4.png&#34; alt=&#34;FLoReNce Framework&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
